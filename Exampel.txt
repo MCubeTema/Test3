@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Esto ya no es mierda!
-=======
-HOLITA
->>>>>>> MELAJUEGO
+Ecsampel
